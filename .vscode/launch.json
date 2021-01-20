@@ -9,7 +9,7 @@
             "type": "cppvsdbg",
             "request": "launch",
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
-            "args": [],
+            "args": ["Ethics.txt", "exclude.txt", "output.html"],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
