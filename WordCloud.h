@@ -22,5 +22,4 @@
  */
 int BuildWordCloud(WordCount* argWordCount, STRING argFileName, int argNumWords);
 
-
-#endif // WORDCLOUD_H
+#endif  // WORDCLOUD_H

@@ -6,17 +6,15 @@
  * ===========================================================
  */
 
-
+#include <ctype.h>
+#include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
 #include <string.h>
-#include <ctype.h>
 
 #define STRING char*
 #define MAX_WORD_LENGTH 5
 #define MAX_WORD_LENGTH_STRING "5"
-
 
 typedef struct {
     STRING word;
@@ -32,7 +30,7 @@ typedef struct {
  */
 int CountWordsInFile(STRING argFileName);
 
-/** 
+/**
  * @brief free the memory used to count word frequencies
  * @param argWordCount word count to be deleted
  * @pre argWordCount is a pointer to WordCount array
@@ -40,7 +38,7 @@ int CountWordsInFile(STRING argFileName);
  */
 void DeleteWordCount(WordCount* argWordCount);
 
-/** 
+/**
  * @brief Removes non alphas from the input word and makes it all uppercase
  * @param argWord word to convert
  * @pre argWord is a null-terminated string
@@ -48,7 +46,7 @@ void DeleteWordCount(WordCount* argWordCount);
  */
 void RemovePunctuationMakeUpperCase(STRING argWord);
 
-/** 
+/**
  * @brief Prints the words and their frequencies
  * @param argWordCounts - array of word frequencies
  * @param argWords - array of words
@@ -57,15 +55,15 @@ void RemovePunctuationMakeUpperCase(STRING argWord);
  */
 void PrintWordsToConsole(WordCount* argWordCount);
 
-/** 
- * @brief count the number of unique words 
+/**
+ * @brief count the number of unique words
  * @param argWordCounts array of word frequencies
  * @pre  argWordCount is an array of WordCount, the last array entry is null string
  * @post returns the number of unique words
  */
 int NumUniqueWords(WordCount* argWordCount);
 
-/** 
+/**
  * @brief Allocates memory for the word list array.
  * @param argNumberOfWords number of words in the file.
  * @return array of WordCounts.
@@ -74,7 +72,7 @@ int NumUniqueWords(WordCount* argWordCount);
  */
 WordCount* CreateWordCountArray(int argNumberOfWords);
 
-/** 
+/**
  * @brief Reads a file of words to exclude from the word cloud.
  * @param argFileName text file to get exclude words from
  * @return Array containing words to exclude, or NULL
@@ -83,7 +81,7 @@ WordCount* CreateWordCountArray(int argNumberOfWords);
  */
 WordCount* ReadExclusionFile(STRING argFileName);
 
-/** 
+/**
  * @brief Reads a file of words from story to build the word cloud.
  * @param argFileName text file build word cloud from
  * @param argExclusionList WordCount array with words to exclude
@@ -93,7 +91,7 @@ WordCount* ReadExclusionFile(STRING argFileName);
  */
 WordCount* ReadStoryFile(STRING argFileName, WordCount* argExclusionList);
 
-/** 
+/**
  * @brief Checks if a word is already stored in an existing WordCount
  * @param argWordCount array to search in
  * @param argBuffer word to look for
@@ -103,7 +101,7 @@ WordCount* ReadStoryFile(STRING argFileName, WordCount* argExclusionList);
  */
 bool WordExistsInWordCount(WordCount* argWordCount, STRING argBuffer);
 
-/** 
+/**
  * @brief Updates count of unique words and adds word to array (argWordCount)
  * @param argWordCount array to search in
  * @param argBuffer word to look for
@@ -112,25 +110,27 @@ bool WordExistsInWordCount(WordCount* argWordCount, STRING argBuffer);
  */
 void UpdateWordCount(WordCount* argWordCount, STRING argBuffer);
 
-/** 
+/**
  * @brief Quicksorts the arrays
  * @param argWordCounts - array of word frequencies
  * @param argWords - array of words
  * @param argLow - low index into arrays
  * @param argHigh - high index into arrays
- * @pre  argWordCount is an array of WordCount; argLow and argHigh are values in range of array index, argHigh >= argLow
+ * @pre  argWordCount is an array of WordCount; argLow and argHigh are values in range of array
+ * index, argHigh >= argLow
  * @post array is sorted
  */
 void QuickSortWords(WordCount* argWordCount, int argLow, int argHigh);
 
-/** 
+/**
  * @brief Partitions the arrays into upper and lower portions around a pivot
  * @param argWordCounts array of word frequencies
  * @param argWords array of words
  * @param argLow low index into arrays
  * @param argHigh high index into arrays
  * @return pivot index
- * @pre argLow and argHigh are values in range of array index, argHigh >= argLow; argWordCount is an array of WordCount
+ * @pre argLow and argHigh are values in range of array index, argHigh >= argLow; argWordCount is an
+ * array of WordCount
  * @post array is partitioned
  */
 int QuickSortPartition(WordCount* argWordCount, int argLow, int argHigh);
