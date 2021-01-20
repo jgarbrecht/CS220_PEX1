@@ -1,6 +1,6 @@
 /** PEX1.c
  * ===========================================================
- * Name: CS220, Spring 2021
+ * Name: C3C Jacob Garbrecht, CS220, Spring 2021
  *
  * Purpose:  Code provided for PEX 1 - Debugging a word cloud
  * ===========================================================
@@ -60,7 +60,7 @@ void RemovePunctuationMakeUpperCase(STRING argWord)
         } else if (islower((unsigned char)*src))
         {
             /* Make it lowercase */
-            *dst++ = toupper((unsigned char)*src);
+            *dst++ = (char) toupper((unsigned char)*src);
             src++;
         } else if (src == dst)
         {
