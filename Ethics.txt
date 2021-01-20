@@ -1,0 +1,237 @@
+Introduction
+
+Philosophy
+To do philosophy is to reason about the ultimate questions of life-- questions like "Is there a God?" and "Are our actions free or determined?"
+Philosophy reasons about such questions. We first try to get clear on what the question is asking. Then we consider the range of possible answers. We criticize each answer as brutally as we can; and we eliminate views that lead to absurdities. We look for the most adequate of the remaining views. If we can't completely resolve the issue, at least we can hope to arrive at a well thought-out belief.
+
+Reasoning about philosophical questions involves constructing arguments, which consist in premises and a conclusion. We aim for clearly true premises from which our conclusion logically follows. The most common way to reason attacks a view by showing that it logically implies things that are false or doubtful.
+
+Moral philosophy
+Moral philosophy reasons about the ultimate questions of morality. Moral philosophy has two parts:
+1.Metaethics studies the nature and methodology of moral judgments. It deals with what "good" means, whether there are moral truths, and how we can justify or rationally defend beliefs about right and wrong.
+2.Normative ethics studies principles about how we ought to live. It looks for norms about what is right or wrong, worthwhile, virtuous, or just.
+
+Metaethics is more basic, since it studies how to select moral principles and thus how to do normative ethics.
+
+
+
+
+Cultural Relativism
+
+Cultural relativism basics
+
+Cultural relativism holds that "good" means what is "socially approved" by the majority in a given culture. Infanticide, for example, isn't good or bad objectively; rather it's good in a society that approves of it but bad in one that disapproves of it.
+Cultural relativists see morality as a product of culture. They think that societies disagree widely about morality and that we have no clear way to resolve the differences. They conclude that there are no objective values. Cultural relativists view themselves as tolerant; they see other cultures, not as "wrong," but as "different."
+
+
+
+Subjectivism
+
+Subjectivism and its problems
+
+Subjectivism says that our moral judgments describe our personal feelings: "X is good" means "I like X." We are to pick our moral principles by following our feelings.
+Subjectivism has problems. It holds, implausibly, that the mere fact that we like something (such as getting drunk and hurting others) would make it good. It gives a weak basis for dealing with practical areas like racism and moral education. And it tells us to follow our feelings but gives us no guide on how to develop rational and wise feelings.
+
+
+
+Supernaturalism
+
+Ethics based on God's will
+
+Supernaturalism holds that moral judgments describe God's will: "X is good" means "God desires X." God's will creates the moral order. Ethics is based on religion.
+SN is defended as a Biblical teaching, as a consequence of belief in God (who is the source of all basic laws), and as the only plausible source of objectively binding duties. We can best know God's will through combining four sources: the Bible, the church, prayer, and reason.
+
+Objections to supernaturalism
+
+SN, despite being initially plausible (at least to religious people), has some deep problems. SN seems to make it impossible for atheists to make positive moral judgments--  an implausible result. And Socrates's question raises further problems: "Is a good thing good because God desires it? Or does God desire it because it is good?"
+
+Arguments for supernaturalism
+
+The arguments for SN fail if we examine them carefully. The Bible doesn't teach SN; rather, it teaches that we ought to obey God-- which might be defended on a non-SN basis. SN isn't a consequence of belief in God; basic moral principles might be like the logical truth "x=x," which is true in itself, and not true because God decided to make it true. Finally, there are ways to defend the objectivity of ethics that don't base ethics on God's will.
+Some are led to SN because of they believe that ethics connects closely to religion. But it's possible to connect the two closely, even without SN.
+
+
+
+Intuitionism
+
+"Good" is indefinable and objective
+
+Intuitionism makes three claims: (1)"Good" is indefinable, (2)there are objective moral truths, and (3)the basic moral truths are self-evident to a mature mind. Let me explain these claims.
+1."Good" is a simple, indefinable notion. Suppose that someone defines "good" as "socially approved." We should ask, "Are socially approved things necessarily good?" The answer clearly is "no," which refutes the definition. We can refute other definitions of "good" in a similar way. Since "good" is indefinable, we can't prove moral conclusions from non-moral premises alone.
+2.There are objective moral truths-- moral truths that don't depend on human thinking or feeling. "Hatred is wrong" is an example. Hatred is wrong in itself. It would still be wrong even if everyone approved of it. It's an objective truth that hatred is wrong.
+
+There are self-evident moral truths
+
+3.The basic moral principles are self-evident truths-- known truths that require no further proof or justification. To apply these to concrete actions requires further information; it's never self-evident what we ought to do in a concrete situation.
+To arrive at the self-evident principles of morality requires reflection and intellectual maturity. The test of such principles isn't their initial plausibility, but whether a careful examination uncovers implications that clash with our intuitions.
+Objections to intuitionism
+Intuitionism, despite its initial plausibility, has some problems. In math, principles claimed to be self-evident are precise and largely agreed on by the experts. In ethics, principles claimed to be self-evident are vague and widely disputed. Intuitionists themselves disagree widely about what is self-evident.
+Moral intuitions come largely from social conditioning, and vary greatly between cultures. So it's hard to believe that such intuitions are a reliable guide to objective moral truths. And appealing to intuitions can lead to an early stalemate on moral issues-- as when we argue with someone who has racist intuitions.
+
+
+
+Emotivism
+
+Emotivism basics
+Emotivism says that moral judgments express positive or negative feelings. "X is good" means "Hurrah for X!"-- and "X is bad" means "Boo on X!"
+Since moral judgments are exclamations, they can't be true or false. So there can't be moral truths or moral knowledge. We can reason about moral issues if we assume a system of norms. But we can't reason about basic moral principles.
+
+Logical positivism
+Some emotivists base their view on logical positivism, which holds roughly that any genuine truth claim must be able to be tested by sense experience. Since moral judgments can't be tested by sense experience, they aren't genuine truth claims. So moral judgments only express feelings. Thus logical positivism leads to emotivism.
+One problem with this argument is that logical positivism is self-refuting. It claims (roughly) "Any genuine truth claim must be able to be tested by sense experience." But this claim itself can't be tested by sense experience. So, by its own standard, logical positivism can't be a genuine truth claim.
+
+Problems with emotivism
+Some argue that emotivism is better than the other approaches because it's simpler and explains more of the facts. They appeal to this principle, which is an important part of scientific method: "A view is better if it's simpler and explains more."
+However, it isn't clear that emotivism explains morality adequately; by denying moral knowledge and moral truth, it seems to water down what morality is. Another problem is that moral judgments, instead of being essentially emotional, go from "very emotional" to "not very emotional." And moral judgments don't always translate plausibly into exclamations.
+
+Emotivism also would seem to destroy the objectivity of scientific method-- since it would translate "A scientific view is better if it's simpler and explains more" into the exclamation "Hurrah for scientific views that are simpler and explain more!"
+
+Moderate emotivism
+Emotivism claims that, in disputes about basic moral principles, we can't appeal to reason but only to emotion. This would seem to lead to propaganda wars in which each side, unable to resort to reason, simply tries to manipulate the feelings of the other side.
+Moderate emotivism tries to add a stronger rationality component. While admitting that ethics is based on feelings, it insists that our feelings can be more or less rational to the extent that we're informed and impartial.
+
+
+
+Prescriptivism
+
+Universalizable prescriptions
+Prescriptivism sees moral judgments as a type of prescription, or imperative. Moral judgments, like the simple imperative "Close the door," don't state facts and aren't true or false. Instead, they express our will, or our desires.
+Ought judgments are universalizable prescriptions. "You ought to do this" is equivalent to "Do this and let everyone do the same in similar cases." So moral beliefs express our desire that a kind of act be done in the present case and in all similar cases-- including ones where we imagine ourselves in someone else's place.
+
+Prescriptivism shows how can we be both free and rational in forming our moral beliefs. Moral beliefs can be free because they express our desires and aren't provable from facts. They can be rational because the logic of "ought" leads to a method of moral reasoning that engages our rational powers to their limits.
+
+Two logical rules for "ought"
+Moral beliefs are subject to two basic logical rules:
+U.	To be logically consistent, we must make similar evaluations about similar cases.
+P.	To be logically consistent, we must keep our moral beliefs in harmony with how we live and want others to live.
+
+Rule U holds because moral judgments are universalizable: it's part of their meaning that they apply to similar cases. Rule P holds because moral judgments are prescriptions (imperatives), and thus express our will, or our desires, about how we and others are to live.
+Golden rule consistency
+Prescriptivism's GR consistency condition, which follows from these two logical rules, claims that this combination is inconsistent:
+-I believe that I ought to do something to another.
+-I don't desire that this be done to me in the same situation.
+This consistency condition is a more precise version of the traditional golden rule ("Treat others as you want to be treated"). We violate it if we think that we ought to do something to another but don't desire that this be done to us in the same situation.
+To think rationally about ethics, we need to be informed, imaginative, and consistent; the most important part of consistency is to follow the golden rule. This approach can show that Nazi moral beliefs are irrational-- since Nazis wouldn't be consistent in their moral beliefs if they knew the facts of the case and exercised their imagination.
+
+Problems with prescriptivism
+Prescriptivism, while it has important insights, seems to rest on a questionable foundation. It says that ought judgments are universalizable prescriptions (or imperatives), and not truth claims. This leads it to deny the possibility of moral knowledge and moral truths-- which seems to conflict with how we approach ethics in our daily lives.
+
+
+
+Consistency
+
+Avoiding an impasse
+How should we reason about ethics? There seems to be a permanent impasse (or stalemate) on this, since people continue to disagree on how to understand moral judgments.
+I'd like to suggest a way out of the difficulty. There may be moral consistency principles that make sense from various perspectives and give powerful tools for moral reasoning. We'll develop this idea in this chapter and the next two. We'll start with four basic consistency requirements: logicality, ends-means consistency, conscientiousness, and impartiality.
+
+Logicality and ends-means consistency
+Logicality says "Avoid inconsistent beliefs." I violate this if I accept incompatible beliefs-- or if I accept a belief without also accepting its logical consequences.
+Ends-means consistency says "Keep your means in harmony with your ends." I violate this if I (a) have an end, (b) believe that to fulfill this end I need to carry out certain means, and (c) don't carry out the means.
+
+Conscientiousness
+Conscientiousness says "Keep your actions, resolutions, and desires in harmony with your moral beliefs." This forbids inconsistencies between my moral judgments and how I live.
+Consistency can be useful in arguing about ethics-- for example, in arguing against a racist who says that blacks ought to be treated poorly because they're inferior. Our strategy for criticizing racist arguments has three steps:
+
+1.Formulate the argument. The premises must be clearly stated, and the conclusion must clearly follow from the premises.
+2.Criticize the factual premises if necessary.
+3.See if the racist applies his moral premise consistently, especially to his own race.
+Impartiality
+Impartiality says "Make similar evaluations about similar actions, regardless of the individuals involved." I violate this if I make conflicting evaluations about actions that I regard as exactly or relevantly similar.
+To test my impartiality, it can be useful to ask whether I'd make the same evaluation about a similar case in which the parties are in different places-- in which, for example, I'm on the receiving end of the action.
+
+Why be consistent?
+We could base these consistency norms on practically any approach to ethics. For example, we might see them as based on social conventions, personal feelings, self-interest, God's will, or self-evident truths.
+
+
+
+The Golden Rule
+
+A golden rule theorem
+Our golden rule theorem says: "Treat others only as you consent to being treated in the same situation." To apply GR, I'd imagine myself in the other person's place on the receiving end of the action. GR forbids this combination:
+-I do something to another.
+-I'm unwilling that this be done to me in the same situation.
+GR doesn't tell us what specific act to do. And it doesn't replace regular moral norms. It only prescribes consistency-- that we not have our actions (toward another) be out of harmony with our desires (about a reversed-situation action). To apply GR adequately, we need knowledge and imagination.
+If we're conscientious and impartial, then we'll follow GR-- since then we won't do something to another unless we believe it would be all right-- and thus believe it would be all right to do to us in the same situation-- and thus are willing that it be done to us in the same situation.
+
+Our formulation
+The literal GR says: "If you want X to do something to you, then do this same thing to X." This can lead to absurdities if we are in a different situation from X or have defective desires about how we are to be treated. To avoid these, our GR uses a same-situation clause, a present attitude toward a hypothetical situation, and a don't-combine form.
+The golden rule is close to being a global principle-- a norm common to all peoples of all times. It makes a good summary of morality and a good way to operationalize the idea of "loving your neighbor." Closely related to GR are the self-regard and future-regard principles, and the formula of universal law: "Act only as you're willing for anyone to act in the same situation-- regardless of imagined variations of time or person."
+
+Why follow GR?
+We could base the golden rule on practically any approach to ethics. For example, we might base GR on social conventions, personal feelings, self-interest, God's will, or self-evident truths.
+
+
+
+Moral Rationality
+
+Consistency and information
+We're rational in our moral judgments to the extent that we're consistent, informed, imaginative, and a few more things.
+1.To be consistent includes satisfying things like ends-means consistency, conscientiousness, impartiality, the golden rule, and the formula of universal law.
+2.To be informed is to know the situation (circumstances, alternatives, consequences, and so on); alternative moral views (including arguments for or against them); and ourselves (including how we developed our feelings and moral beliefs).
+
+Imagination and a few more things
+3.To be imaginative is to have a vivid and accurate awareness of the situation of another (or of our own situation at a future point of time) and what it would be like to be in that situation. This differs from just knowing facts. It also involves an appreciation of what these facts mean to people's lives.
+4.The "few more things" cover, for example, feeling free to think for ourselves (instead of just conforming), having feelings of concern for ourselves and for others, and dialoging with others.
+
+Rationality conditions and desires
+These rationality conditions (which describe how we ought ideally to form our moral beliefs) grow out of our consistency requirements. For example, since we demand that others try to be informed when they deliberate about how to act toward us, we will, if consistent, demand this of ourselves too. So we'll hold the general principle that people ought to be informed when making moral judgments.
+These same rationality conditions also apply to desires. Irrational desires have flaws like inconsistency, ignorance, or lack of imagination. Accordingly, racist desires are irrational if they're based on social conditioning and would diminish if we broadened our knowledge and experience.
+
+GR and racism
+Our GR attack on racist actions has four steps:
+1.Make sure that the racist has a clear understanding of the facts.
+2.Have him imagine himself, vividly and accurately, in the place of his victims.
+3.If needed, rationalize his desires (about how he'd be treated if he were in their place).
+4.See if he treats his victims only as he's willing to be treated in the same situation.
+The racist will likely fail the GR test.
+Teaching moral rationality
+Helping children to be more rational in their moral thinking is an important part of moral education. It's especially important to teach these six commandments of rational moral thinking:
+-Make informed decisions.
+-Be consistent in your beliefs.
+-Live in harmony with your moral beliefs.
+-Make similar evaluations about similar actions.
+-Put yourself in the other person's place.
+-Treat others as you want to be treated.
+Adults can teach these by personal example and by promoting the corresponding skills and attitudes in children.
+
+Consequentialism
+
+Classical utilitarianism
+Consequentialism says that we ought to do whatever maximizes good consequences. It doesn't in itself matter what kind of thing we do. What matters is that we maximize good results.
+One popular kind of consequentialism is classical (hedonistic) utilitarianism. This view says that we ought always to do whatever brings about the greatest balance of pleasure over pain for everyone affected by our action. This view could be based on the golden rule, which leads us to be concerned about the happiness and misery of others. Or it could be based on God's will, self-evident truths, or our own personal feelings.
+
+We can apply utilitarianism directly (by first estimating the likely consequences of each option and then picking the option with the best consequences) or indirectly (by applying a "rule of thumb" about what kinds of action tend to have good or bad results). Many utilitarians reject exceptionless rules. They think that any rule should be broken when it has better consequences to do so. So they see moral rules only as loose "rules of thumb."
+
+
+
+Nonconsequentialism
+
+Ross's prima facie view
+Ross's prima facie view is a popular form of nonconsequentialism. It tries to avoid the extreme implications of the "exceptionless duties" view and utilitarianism.
+Ross focuses on our duty to keep promises. This duty doesn't hold in an exceptionless way, since it can be overridden by other duties. And yet it isn't just a rule of thumb that we can break whenever it has good consequences to do so. Instead, the duty to keep promises is an independent duty. It binds us, other things being equal, but may sometimes have to yield to other duties.
+
+Our basic duties
+Ross's basic moral principles say that we ought, other things being equal, to do or not to do certain kinds of things. There are duties of fidelity, reparation, gratitude, justice, beneficence, self-improvement, and nonmaleficence. When these duties conflict, we have to weigh one duty against another and see which is stronger in the situation.
+Nonmaleficence is stronger than beneficence; in general, it's not right to harm one person to help another or to promote social usefulness. Many of our duties are relational; we have a specific duty to a person X because of how X is related to us (as, for example, someone to whom we've made a promise).
+
+
+
+Virtue
+
+Ancient Greek virtue ethics
+Moral philosophy started in ancient Greece when Socrates asked questions about virtue and encouraged people to think about such questions in a rational way.
+For Plato, who was Socrates's star pupil, the lower must depend on the higher. And so our soul needs to control the body, and our soul in turn needs to be guided by the Good, which is an objective pattern that our minds can grasp. There are four main virtues: wisdom, self-control, courage, and justice. St Augustine and other Christian thinkers accepted this but added three theological virtues: faith, hope, and love.
+
+Aristotle discussed many virtues, but divided them into two main groups: intellectual virtues and moral virtues. Virtue is a mean between extremes; so courage, for example, is midway between cowardice (having too much fear) and foolhardiness (having too little fear). We need practical wisdom to pick the virtues and determine the mean. Virtues aim at happiness, which is the ultimate goal of our actions.
+
+
+
+Natural Law
+
+Aquinas overview
+St Thomas Aquinas was the central figure in the natural-law tradition. His moral theology, which was based on his Christian faith, sees morality as part of God's governance of the world. Morality's purpose is to lead us to our final goal, which is eternal happiness with God. We have two ways to know the basic moral norms: human reason and the Bible. Morality is possible because of how God created us, as rational animals with an intellect and a will.
+Aquinas's moral philosophy sees the basic moral norms (like the golden rule and the wrongness of stealing) as fixed and unchangeable, although they can be applied differently to different cultural situations. Human laws are set up to promote the good and must accord with natural law.
+
+Aquinas axioms
+Good is that which all things seek after. The first precept of natural law is that good is to be done and pursued, and evil is to be avoided. We can know what is good by investigating our natural (rational) inclinations.
+John Finnis, a follower of Aquinas, suggests that there are seven basic goods (which include, for example, knowledge and life), that these cannot be measured on a common scale and totaled, and that it's always wrong to choose directly against a basic good (for example, by taking the life of an innocent person).

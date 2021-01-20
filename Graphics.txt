@@ -1,0 +1,11 @@
+The term computer graphics has been used in a broad sense to describe "almost everything on computers that is not text or sound". Typically, the term computer graphics refers to several different things:
+
+the representation and manipulation of image data by a computer
+
+the various technologies used to create and manipulate images
+
+the sub-field of computer science which studies methods for digitally synthesizing and manipulating visual content, see study of computer graphics
+
+Today, computer graphics is widespread. Such imagery is found in and on television, newspapers, weather reports, and in a variety of medical investigations and surgical procedures. A well-constructed graph can present complex statistics in a form that is easier to understand and interpret. In the media "such graphs are used to illustrate papers, reports, theses", and other presentation material.
+
+Many tools have been developed to visualize data. Computer generated imagery can be categorized into several different types: two dimensional 2D, three dimensional 3D, and animated graphics. As technology has improved, 3D computer graphics have become more common, but 2D computer graphics are still widely used. Computer graphics has emerged as a sub-field of computer science which studies methods for digitally synthesizing and manipulating visual content. Over the past decade, other specialized fields have been developed like information visualization, and scientific visualization more concerned with "the visualization of three dimensional phenomena (architectural, meteorological, medical, biological, etc.), where the emphasis is on realistic renderings of volumes, surfaces, illumination sources, and so forth, perhaps with a dynamic (time) component".
