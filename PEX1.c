@@ -1,6 +1,6 @@
 /** PEX1.c
  * ===========================================================
- * Name: C3C Jacob Garbrecht, CS220, Spring 2021
+ * Name: CS220, Spring 2021
  *
  * Purpose:  Code provided for PEX 1 - Debugging a word cloud
  * ===========================================================
