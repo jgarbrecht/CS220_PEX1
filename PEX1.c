@@ -82,7 +82,7 @@ int NumUniqueWords(WordCount* argWordCount) {
 
 WordCount* CreateWordCountArray(int argNumberOfWords) {
     WordCount* retWordCount;
-    retWordCount = malloc((argNumberOfWords + 1) * sizeof(int));
+    retWordCount = (WordCount*) malloc((argNumberOfWords + 1) * sizeof(WordCount));
 
     for (int i = 0; i < argNumberOfWords + 1; i++) {
         retWordCount[i].word = NULL;
@@ -186,7 +186,7 @@ void UpdateWordCount(WordCount* argWordCount, STRING argBuffer) {
     }
 
     argWordCount[i].word = malloc(MAX_WORD_LENGTH * sizeof(char));
-    argWordCount[i].word = argBuffer;
+    strcpy(argWordCount[i].word, argBuffer);
     argWordCount[i].count = 1;
 }
 
