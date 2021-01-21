@@ -20,6 +20,6 @@
  * @pre argWordCount points to array of WordCount values of size argNumWords
  * @post the file named argFileName will be appended to
  */
-int BuildWordCloud(WordCount* argWordCount, STRING argFileName, int argNumWords);
+int BuildWordCloud(WordCount* argWordCount, STRING argFileName);
 
 #endif  // WORDCLOUD_H

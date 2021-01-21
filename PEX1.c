@@ -6,7 +6,7 @@
  * ===========================================================
  */
 
-#include "PEX1.h"
+#include "WordCloud.h"
 
 int CountWordsInFile(STRING argFileName) {
     // open the file
@@ -49,7 +49,7 @@ void RemovePunctuationMakeUpperCase(STRING argWord) {
             src++;
         } else if (islower((unsigned char)*src)) {
             /* Make it lowercase */
-            *dst++ = toupper((unsigned char)*src);
+            *dst++ = (char) toupper((unsigned char)*src);
             src++;
         } else if (src == dst) {
             /* Increment both pointers without copying */
@@ -267,7 +267,7 @@ int main(int argc, char** argv) {
 
     // if an output file is provided build the html word cloud
     if (argc > 3)
-        BuildWordCloud(storyWordMap, argv[3], numUniqueWords);
+        BuildWordCloud(storyWordMap, argv[3]);
 
     // sort the words by frequency, highest at the top
     QuickSortWords(storyWordMap, 0, numUniqueWords);

@@ -10,7 +10,7 @@
 
 #include <stdio.h>
 
-int BuildWordCloud(WordCount* argWordCount, STRING argFileName, int argNumWords) {
+int BuildWordCloud(WordCount* argWordCount, STRING argFileName) {
     // open/check to see if file is valid
     FILE* filePtr = NULL;
 
