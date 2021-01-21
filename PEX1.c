@@ -82,7 +82,7 @@ int NumUniqueWords(WordCount* argWordCount) {
 
 WordCount* CreateWordCountArray(int argNumberOfWords) {
     WordCount* retWordCount;
-    retWordCount = (WordCount*) malloc((argNumberOfWords + 1) * sizeof(WordCount));
+    retWordCount = (WordCount*)malloc((argNumberOfWords + 1) * sizeof(WordCount));
 
     for (int i = 0; i < argNumberOfWords + 1; i++) {
         retWordCount[i].word = NULL;
@@ -173,6 +173,7 @@ bool WordExistsInWordCount(WordCount* argWordCount, STRING argBuffer) {
 
         i++;
     }
+    return false;
 }
 
 void UpdateWordCount(WordCount* argWordCount, STRING argBuffer) {
