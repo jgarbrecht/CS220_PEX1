@@ -18,7 +18,7 @@ int CountWordsInFile(STRING argFileName) {
 
     if (filePtr) {
         // read in one word at at time and
-        char charBuffer[MAX_WORD_LENGTH];
+        char charBuffer[MAX_WORD_LENGTH + 1];
 
         while (fscanf(filePtr, "%" MAX_WORD_LENGTH_STRING "s", charBuffer) == 1) {
             // increment the counter
@@ -72,9 +72,9 @@ void PrintWordsToConsole(WordCount* argWordCount) {
 }
 
 int NumUniqueWords(WordCount* argWordCount) {
-    int i;
+    int i = 0;
     while (argWordCount[i].word != NULL) {
-        i = 1;
+        ++i;
     }
 
     return i;
@@ -108,7 +108,7 @@ WordCount* ReadExclusionFile(STRING argFileName) {
             return NULL;
 
         // create a buffer
-        char charBuffer[MAX_WORD_LENGTH];
+        char charBuffer[MAX_WORD_LENGTH + 1];
 
         // initialize an array of structs with the proper number of words
         WordCount* returnWordCount = CreateWordCountArray(numWords);
@@ -144,7 +144,7 @@ WordCount* ReadStoryFile(STRING argFileName, WordCount* argExclusionList) {
             return NULL;
 
         // create a buffer
-        char charBuffer[MAX_WORD_LENGTH];
+        char charBuffer[MAX_WORD_LENGTH + 1];
 
         // dynamically allocate memory for an array of structs with the proper number of words
         WordCount* returnWordCount = CreateWordCountArray(numWords);

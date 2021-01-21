@@ -31,7 +31,7 @@ int BuildWordCloud(WordCount* argWordCount, STRING argFileName, int argNumWords)
 
     // print the words with the style according to their frequency
     for (int i = 0; argWordCount[i].word != NULL; i++) {
-        if (argWordCount[i].count = 1) {
+        if (argWordCount[i].count == 1) {
             fprintf(filePtr, "<text1>%s</text1>\n", argWordCount[i].word);
         } else if (argWordCount[i].count == 2) {
             fprintf(filePtr, "<text2>%s</text2>\n", argWordCount[i].word);
